@@ -10,7 +10,7 @@ int main()
 
     for (const string& word : msg)
     {
-        cout << word << " 11";
+        cout << word << " 1223";
     }
     cout << endl;
 }
